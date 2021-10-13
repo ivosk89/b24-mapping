@@ -1,4 +1,4 @@
-# B2C integration
+# B24 integration
 
 ## Системные требование
 - PHP >= 7.4 (+ ext-curl, ext-http, ext-soap)
